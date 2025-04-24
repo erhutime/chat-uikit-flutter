@@ -33,7 +33,7 @@ dependencies:
   tencent_super_tooltip: ^0.0.1
   better_player_plus: '>=1.0.4 <=1.0.5'
   video_player: ^2.9.2
-  chewie: ^1.11.0
+  chewie: ^1.8.5
   flutter_slidable_plus_plus: ^0.1.0
   flutter_plugin_record_plus: ^0.0.19
   azlistview_all_platforms: ^2.1.2
